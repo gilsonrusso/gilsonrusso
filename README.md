@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi my name is gilson. I'm passionate about technology. I'm currently finishing the faculty of management of information technology. I'm doing internship in the integrated center of command and control. At this point I develop front-end work using vue js framework. I'm studying the stack react and node js. I want to become a professional developer and be able to contribute to a better society!
+
 <!--
 **gilsonrusso/gilsonrusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
