@@ -4,11 +4,9 @@
 
 ### Hi there 👋
 
-My name is gilson. I'm passionate about technology. I finished the faculty of 
-management of information technology. 
-At this point i develop front-end work using vue and react js framework. 
-I'm studying the stack | React - js - Native | Vue-js | Nodejs | Typescript | Docker | HTLM JS CSS |. 
-I study every day becose i want to become a professional developer and be able to contribute to a better society!
+My name is gilson. I'm passionate about technology. 
+At this point i am FullStack Developer. 
+I'm studying and working the stack like | ReactJS | VueJS/Nuxt | Angular | Nodejs | Typescript | Express | Fastify | Prisma | MongoDB | Docker |. 
 
 - 📫 How to reach me: https://www.linkedin.com/in/gilsonrusso/
 <!--
