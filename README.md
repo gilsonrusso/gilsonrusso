@@ -6,7 +6,7 @@
 
 My name is gilson. I'm passionate about technology. 
 At this point i am FullStack Developer. 
-I'm studying and working the stack like | ReactJS | VueJS/Nuxt | Angular | Nodejs | Typescript | Express | Fastify | Prisma | MongoDB | Docker |. 
+I'm working with stack like | ReactJS | VueJS/Nuxt | Angular | Nodejs | Typescript | Express | Fastify | Prisma | MongoDB | Docker |. 
 
 - 📫 How to reach me: https://www.linkedin.com/in/gilsonrusso/
 <!--
